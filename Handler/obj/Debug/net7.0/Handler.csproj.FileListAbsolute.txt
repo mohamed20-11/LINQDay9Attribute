@@ -1,0 +1,29 @@
+D:\Demo\PartI\Handler\bin\Debug\net7.0\Handler.exe
+D:\Demo\PartI\Handler\bin\Debug\net7.0\Handler.deps.json
+D:\Demo\PartI\Handler\bin\Debug\net7.0\Handler.runtimeconfig.json
+D:\Demo\PartI\Handler\bin\Debug\net7.0\Handler.dll
+D:\Demo\PartI\Handler\bin\Debug\net7.0\Handler.pdb
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.csproj.AssemblyReference.cache
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.AssemblyInfoInputs.cache
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.AssemblyInfo.cs
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.csproj.CoreCompileInputs.cache
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.dll
+D:\Demo\PartI\Handler\obj\Debug\net7.0\refint\Handler.dll
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.pdb
+D:\Demo\PartI\Handler\obj\Debug\net7.0\Handler.genruntimeconfig.cache
+D:\Demo\PartI\Handler\obj\Debug\net7.0\ref\Handler.dll
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\bin\Debug\net7.0\Handler.exe
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\bin\Debug\net7.0\Handler.deps.json
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\bin\Debug\net7.0\Handler.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\bin\Debug\net7.0\Handler.dll
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\bin\Debug\net7.0\Handler.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.dll
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\refint\Handler.dll
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\Handler.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\mooo\advanced c#\Day9\day9\PartI\Handler\obj\Debug\net7.0\ref\Handler.dll
